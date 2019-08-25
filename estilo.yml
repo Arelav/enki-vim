@@ -1,0 +1,13 @@
+name: 'enki'
+version: '1.0.0'
+license: 'MIT'
+author: 'Valery Kharshats'
+url: 'https://github.com/Arelav/enki'
+description: 'Enki theme Vim port'
+colorschemes:
+  - name: enki
+    background: 'dark'
+    palette: enki
+  - name: aster
+    background: 'dark'
+    palette: aster

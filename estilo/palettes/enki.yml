@@ -1,0 +1,50 @@
+# Color reference
+# #1A1B20
+# #3F414D
+# #2B2D3A
+# #425C7C
+# ----------
+# #6D3B66
+# #8d4d85
+# #B376B3
+# #D57CD5
+# ----------
+# #D93232
+# #C33C4A
+# #FF435B
+# #EB606B
+# #D24D57
+# #F99157
+# #faa16f
+# #FAC863
+# #ca9b55
+# #DBC08A
+# #1ABC9C
+# #50B4DC
+# #6189bb
+# #7BA1D0
+# #83AADA
+# #AFBAD4
+# #767D8E
+# #E5E5E5
+
+Marker: '#ff6666'
+Dark: '#19181f'
+Cursor: '#6c3a65'
+CursorText: '#032b34'
+Black: '#5f365f'
+Red: '#0ec597'
+Green: '#1daad5'
+Yellow: '#0ec294'
+Blue: '#50b4dc'
+Magenta: '#0ec294'
+Cyan: '#b375b3'
+White: '#e4e4e4'
+
+Comment: '#4f4f5e'
+MenuColor: '#767D8E'
+MenuBackground: '#2B2D3A'
+MenuSelectedColor: '#E5E5E5'
+MenuSelectedBackground: '#3F414D'
+
+LineNumber: '#2B2D3A'

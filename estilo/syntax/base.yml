@@ -1,0 +1,81 @@
+# BASE UI
+ColorColumn: 'Red Green bu'
+Conceal: '@ColorColumn'
+Cursor: ''
+CursorIM: ''
+CursorColumn: ''
+CursorLine: ''
+Directory: ''
+DiffAdd: ''
+DiffChange: ''
+DiffDelete: ''
+DiffText: ''
+ErrorMsg: ''
+VertSplit: ''
+Folded: ''
+FoldColumn: ''
+SignColumn: ''
+IncSearch: ''
+LineNr: 'LineNumber'
+MatchParen: ''
+ModeMsg: ''
+MoreMsg: ''
+NonText: ''
+Normal: 'Red Dark'
+PMenu: 'MenuColor MenuBackground'
+PMenuSel: 'MenuSelectedColor MenuSelectedBackground'
+PmenuSbar: ''
+PmenuThumb: ''
+Question: ''
+Search: ''
+SpecialKey: ''
+SpellBad: ''
+SpellLocal: ''
+SpellCap: ''
+SpellRare: ''
+StatusLine: ''
+StatusLineNC: ''
+TabLine: ''
+TabLineFill: ''
+TabLineSel: ''
+Title: ''
+Visual: ''
+VisualNOS: ''
+WarningMsg: ''
+WildMenu: ''
+# BASE SYNTAX
+Comment: 'Comment'
+Constant: ''
+String: 'Marker Dark' # Constant
+Character: '' # Constant
+Boolean: '' # Constant
+Number: '' # Constant
+Float: '' # Constant
+Identifier: ''
+Function: '' # Identifier
+Statement: ''
+Conditional: '' # Statement
+Repeat: '' # Statement
+Label: '' # Statement
+Operator: '' # Statement
+Keyword: '' # Statement
+Exception: '' # Statement
+PreProc: ''
+Include: '' # PreProc
+Define: '' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: ''
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: ''
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: '' # Special
+SpecialComment: '' # Special
+Debug: '' # Special
+Underlined: ''
+Ignore: ''
+Error: ''
+Todo: ''
