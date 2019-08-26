@@ -44,7 +44,7 @@ VisualNOS: ''
 WarningMsg: ''
 WildMenu: ''
 # BASE SYNTAX
-Comment: 'Comment'
+Comment: 'Comment . i'
 Constant: ''
 String: 'Marker Dark' # Constant
 Character: '' # Constant

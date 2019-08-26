@@ -11,3 +11,7 @@ colorschemes:
   - name: aster
     background: 'dark'
     palette: aster
+airline:
+  - name: 'aster'
+    palette: 'aster'
+    style: 'aster'
