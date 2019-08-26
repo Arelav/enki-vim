@@ -1,10 +1,10 @@
 " ===============================================================
-" enki
+" enki-default
 " 
 " URL: https://github.com/Arelav/enki
 " Author: Valery Kharshats
 " License: MIT
-" Last Change: 2019/08/25 21:21
+" Last Change: 2019/08/26 00:19
 " ===============================================================
 
 set background=dark
@@ -12,21 +12,21 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name="enki"
+let g:colors_name="enki-default"
 
 
 let Italic = ""
-if exists('g:enki_italic')
+if exists('g:enki-default_italic')
   let Italic = "italic"
 endif
-let g:enki_italic = get(g:, 'enki_italic', 0)
+let g:enki-default_italic = get(g:, 'enki-default_italic', 0)
 
 let Bold = ""
-if exists('g:enki_bold')
+if exists('g:enki-default_bold')
   let Bold = "bold"
 endif
 
-let g:enki_bold = get(g:, 'enki_bold', 0)
+let g:enki-default_bold = get(g:, 'enki-default_bold', 0)
 hi ColorColumn guifg=#0ec597 ctermfg=42 guibg=#1daad5 ctermbg=38 gui=Bold,underline cterm=Bold,underline
 hi link Conceal ColorColumn
 hi LineNr guifg=#2B2D3A ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

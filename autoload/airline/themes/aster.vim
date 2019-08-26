@@ -4,7 +4,7 @@
 " URL:https://github.com/Arelav/enki
 " Author: Valery Kharshats
 " License: MIT
-" Last Change: 2019/08/25 21:21
+" Last Change: 2019/08/26 00:19
 " ============================================================
 
 let g:airline#themes#aster#palette = {}
