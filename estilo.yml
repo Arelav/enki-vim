@@ -5,10 +5,10 @@ author: 'Valery Kharshats'
 url: 'https://github.com/Arelav/enki'
 description: 'Enki theme Vim port'
 colorschemes:
-  - name: 'enki-default'
+  - name: 'enki'
     background: 'dark'
     palette: 'default'
-  - name: 'enki-aster'
+  - name: 'enki_aster'
     background: 'dark'
     palette: 'aster'
 airline:
