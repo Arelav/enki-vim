@@ -51,7 +51,7 @@ Character: '' # Constant
 Boolean: '' # Constant
 Number: '' # Constant
 Float: '' # Constant
-Identifier: ''
+Identifier: 'Identifier'
 Function: '' # Identifier
 Statement: ''
 Conditional: '' # Statement
